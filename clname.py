@@ -282,6 +282,11 @@ class File:
         return is_system_loop
 
     def clean(self, arguments):
+        """Cleans the filename of the file.
+
+        :param arguments: parsed arguments
+        :type arguments: argparse.Namespace
+        """
         cleaned_path = self.get_cleaned_file_path(arguments.extension)
 
         if cleaned_path == self.path:
