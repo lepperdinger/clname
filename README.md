@@ -27,3 +27,7 @@ $ ls
 ## Requirements
 * Python 3
 * clname is written for GNU/Linux distributions.
+## Installation
+```
+pip install clname
+```
