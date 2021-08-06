@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-clname, version 0.1 - Cleans filenames to make them shell-friendly
+clname, version 1.0 - Cleans filenames to make them shell-friendly
                       (written for GNU/Linux distributions)
 Copyright (C) 2021 Stefan Lepperdinger
 
